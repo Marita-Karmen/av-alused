@@ -2,7 +2,7 @@
 ## Setting up
 Enne käivitamist käsud
 ```
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update (&& sudo apt-get upgrade)
 sudo apt-get install netcat-openbsd tcpdump traceroute mtr iputils-ping lsof
 ```
 ## Ping vs HTTP
