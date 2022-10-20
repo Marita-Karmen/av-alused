@@ -40,7 +40,6 @@ printf turns `\n` into linebreak, echo doesnt
 - only one program can listen at a time
 
 ``sudo lsof -i`` to see programs that are listening
-  - mine didn't work
 
 (ctrl D) to end session
   - (ctrl C) worked in my case
