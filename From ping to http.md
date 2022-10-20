@@ -53,7 +53,4 @@ Then point your web browser at the server's IP address
 - You will need to use the IP address of your Linux server in the URL that you put into your browser.
 
 ## ERRORS
-```
-maritakarmen@cloudshell:~ (pragmatic-braid-276712)$ ping -c3 8.8.8.8
--bash: ping: command not found
-```
+
